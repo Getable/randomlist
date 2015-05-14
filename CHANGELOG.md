@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.0.4 | 2015-05-14
+* switch proptypes
+
 ## v2.0.3 | 2015-05-14
 rectifying version numbers
 
@@ -48,6 +51,7 @@ rectifying version numbers
 
 ### 0.0.0
 Init
+
 
 
 
