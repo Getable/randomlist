@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.1",
   "name": "@getable/randomlist",
   "description": "A list iterator that randomizes the order of the output",
   "author": {
