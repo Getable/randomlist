@@ -54,11 +54,11 @@ export default class RandomList extends Component {
   }
 
   render () {
-    const getRandomList = this.getRandomList()
+    const randomList = this.getRandomList()
 
     return (
     <div className={namespace}>
-      {this.getRandomList.bind(this)()}
+      {randomList}
     </div>
       )
   }
