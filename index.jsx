@@ -65,6 +65,6 @@ export default class RandomList extends Component {
 }
 
 RandomList.propTypes = {
-  cell: PropTypes.element.isRequired
+  cell: PropTypes.func.isRequired
   , cellProps: PropTypes.array.isRequired
 }
